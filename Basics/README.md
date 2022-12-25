@@ -1,4 +1,4 @@
-# Python-Practice For Placement Interview Questions
+# Python-Basics For Placement Interview Questions
 
 ## Q 1) Tell Me Something About Python Programming
 • Free and open-source - You can freely use and distribute Python, even for
