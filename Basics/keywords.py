@@ -18,6 +18,11 @@ print(b)
 print(c)
 print(d)
 
+# OUTPUT
+# 10
+# 12.3
+# Ameya
+# Belvalkar
 
 
 # Here a b c d are Variables and 10,12.3,Ameya,Belvalakr Are Values Or Can Be Called As Literals 
